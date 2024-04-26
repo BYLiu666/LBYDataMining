@@ -5,7 +5,8 @@
 1. **进入github的官网**
 在 Web 浏览器中输入https://github.com/，进入 GitHub 的官方网站。
 2. **点击右上角注册按钮sign up，来到注册页面**
-![](1.png)
+<img width="341" alt="image" src="https://github.com/BYLiu666/LBYDataMining/assets/145025348/3cc68dbc-6911-432b-a75d-e5ede2cb534b">
+
 3. **验证电子邮件地址**
    注册完成后，GitHub 会向您提供的电子邮件地址发送一封验证邮件。请登录您的电子邮箱，查找来自 GitHub 的邮件，并点击邮件中的验证链接完成验证。
 4. **验证电子邮件地址**
@@ -26,7 +27,8 @@
    - **Choose a license**（选择许可证）：根据项目需求选择合适的选项。
    ![](6.png)
 4. **提交**：点击 “Create repository”,填写完仓库信息后，点击绿色按钮 “Create repository” 创建开源仓库。
-![](2.png)
+<img width="268" alt="image" src="https://github.com/BYLiu666/LBYDataMining/assets/145025348/ec93b8a2-d0fe-4cff-8975-3c361a7c65c4">
+
 ## 三、上传PPT到LBYDataMining
 
 1. **登录GitHub**：确保已经登录到 GitHub 帐户。
@@ -34,11 +36,13 @@
 2. **导航到 "LBYDataMining" 仓库页面**：在 GitHub 主页或仓库列表中找到并点击 "LBYDataMining" 仓库，进入该仓库的页面。
 
 3. **点击 "Add file" 按钮**：在仓库页面的右上角，点击 "Add file"，然后选择 "Upload files"。
-![](3.png)
+<img width="367" alt="image" src="https://github.com/BYLiu666/LBYDataMining/assets/145025348/05547121-af90-4849-a26b-cb113253f299">
+
 4. **上传PPT文件**：
    - **拖拽上传**：可以直接将 PPT 文件拖拽到上传区域。
    - **点击上传**：或者点击上传区域选择文件，然后选择要上传的 PPT 文件。
-![]  (4.png)
+<img width="357" alt="image" src="https://github.com/BYLiu666/LBYDataMining/assets/145025348/9bcc876f-fc0f-4346-bd01-2898454b1073">
+
 5. **填写提交信息**：在页面下方的 "Commit changes" 区域，输入提交信息，描述上传的 PPT 文件。
 
 6. **提交**：完成上述步骤后，点击 "Commit changes" 提交更改。
